@@ -1,0 +1,162 @@
+{
+ "hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "hotel-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "hotel-room1": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "hotel-room2": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "hotel-room3": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "hotel-pool": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "restaurant-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "dish1": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "dish2": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "dish3": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "dish4": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "construction-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "build1": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "build2": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "build3": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "estate-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop1": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop2": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop3": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop4": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop5": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "prop6": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fashion-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa1": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa2": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa3": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa4": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa5": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "fa6": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "clean-hero": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "clean-before": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ },
+ "clean-after": {
+  "url": "",
+  "source": "Unsplash|Pexels",
+  "credit": ""
+ }
+}

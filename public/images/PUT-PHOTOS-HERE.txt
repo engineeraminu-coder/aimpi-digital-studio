@@ -1,0 +1,1 @@
+Save photos here named exactly like hero.jpg, hotel-hero.jpg, prop1.jpg ... (.jpg or .webp both work).
